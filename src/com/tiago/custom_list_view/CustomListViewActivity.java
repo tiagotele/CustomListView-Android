@@ -76,4 +76,9 @@ public class CustomListViewActivity extends Activity implements OnItemClickListe
 		//arg1.setActivated(true);
 		//Toast.makeText(getApplicationContext(), "Normal click detected", 1000).show();
 	}
+	
+	private void doNothing()
+	{
+		
+	}
 }
